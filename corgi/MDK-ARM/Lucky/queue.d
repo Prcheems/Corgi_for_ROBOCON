@@ -1,0 +1,15 @@
+lucky\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+lucky\queue.o: D:\rob\keil2\ARM\ARMCC\Bin\..\include\stdlib.h
+lucky\queue.o: D:\rob\keil2\ARM\ARMCC\Bin\..\include\string.h
+lucky\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+lucky\queue.o: D:\rob\keil2\ARM\ARMCC\Bin\..\include\stddef.h
+lucky\queue.o: D:\rob\keil2\ARM\ARMCC\Bin\..\include\stdint.h
+lucky\queue.o: ../Core/Inc/FreeRTOSConfig.h
+lucky\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+lucky\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+lucky\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+lucky\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+lucky\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+lucky\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+lucky\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+lucky\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

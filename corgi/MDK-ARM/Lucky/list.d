@@ -1,0 +1,12 @@
+lucky\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+lucky\list.o: D:\rob\keil2\ARM\ARMCC\Bin\..\include\stdlib.h
+lucky\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+lucky\list.o: D:\rob\keil2\ARM\ARMCC\Bin\..\include\stddef.h
+lucky\list.o: D:\rob\keil2\ARM\ARMCC\Bin\..\include\stdint.h
+lucky\list.o: ../Core/Inc/FreeRTOSConfig.h
+lucky\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+lucky\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+lucky\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+lucky\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+lucky\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+lucky\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
